@@ -8,12 +8,12 @@ class box
 		double length;
 		double breadth;
 		double height;
-}
+};
 
 main()
 {
 	box box1;
-	box Box2;
+	box box2;
 	double vol=0.0;
 	box1.height=5.0;
 	box1.length=6.0;
